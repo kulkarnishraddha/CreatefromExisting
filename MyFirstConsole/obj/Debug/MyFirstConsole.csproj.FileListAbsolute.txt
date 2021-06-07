@@ -1,0 +1,7 @@
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\bin\Debug\MyFirstConsole.exe.config
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\bin\Debug\MyFirstConsole.exe
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\bin\Debug\MyFirstConsole.pdb
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\obj\Debug\MyFirstConsole.csprojAssemblyReference.cache
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\obj\Debug\MyFirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\obj\Debug\MyFirstConsole.exe
+C:\Users\shrad\source\repos\MyFirstCSharpApp\MyFirstConsole\obj\Debug\MyFirstConsole.pdb

@@ -1,0 +1,7 @@
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\obj\Debug\DataTypesDemo.csprojAssemblyReference.cache
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\obj\Debug\DataTypesDemo.csproj.CoreCompileInputs.cache
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\bin\Debug\DataTypesDemo.exe.config
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\bin\Debug\DataTypesDemo.exe
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\bin\Debug\DataTypesDemo.pdb
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\obj\Debug\DataTypesDemo.exe
+C:\Users\shrad\source\repos\MyFirstCSharpApp\DataTypesDemo\obj\Debug\DataTypesDemo.pdb
